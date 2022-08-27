@@ -1,4 +1,6 @@
-# UniGetComponentWithLogExtensionMethods
+# Kogane Get Component With Log Extension Methods
+
+GetComponent に失敗した時にログ出力できる拡張メソッド
 
 ## 使用例
 
